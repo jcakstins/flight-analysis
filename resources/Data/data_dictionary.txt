@@ -1,0 +1,51 @@
+table,column,description
+airports,faa,airport code
+airports,name,airport name
+airports,lat,latitude
+airports,lon,longitude
+airports,alt,altitude
+airports,tz,timezone modifier (hours)
+airports,tzone,timezone long name
+flights,year,year
+flights,month,month
+flights,dep_time,departure time
+flights,sched_dep_time,scheduled departure time
+flights,dep_delay,departure delay
+flights,arr_time,arrival time
+flights,sched_arr_time,scheduled arrival time
+flights,arr_delay,arrival delay
+flights,carrier,carrier
+flights,flight,flight number
+flights,tailnum,vehicle tail number
+flights,origin,flight origin
+flights,dest,flight destination
+flights,air_time,time in air
+flights,distance,distance (miles)
+flights,hour,hour of schd_dep_time
+flights,minute,minute of schd_dep_time
+flights,time_hour,an hourly resolution date time value
+planes,tailnum,vehicle tail number
+planes,year,year
+planes,type,type of plane
+planes,manufacturer,manufacturer
+planes,model,model of plane
+planes,engines,numbr of engines
+planes,seats,number of seats
+planes,engine,engine type
+weather,origin,measurement location
+weather,year,year
+weather,month,month
+weather,day,day
+weather,hour,hour
+weather,temp,temperature
+weather,dewp,dew point
+weather,humid,humidity
+weather,wind_dir,wind direction
+weather,wind_speed,wind speed
+weather,wind_gust,wind gust speed
+weather,precip,precipitation
+weather,pressure,air pressure
+weather,visib,visibility
+weather,time_hour,datetime format of date and time
+airlines,carrier,airline code
+airlines,name,airline full name 
